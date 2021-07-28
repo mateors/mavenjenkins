@@ -1,2 +1,3 @@
-# mavenjenkins
-Jenkins Maven project
+# Jenkins Maven project
+> mvn clean test
+> clean test
